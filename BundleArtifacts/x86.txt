@@ -1,0 +1,2 @@
+MainPackage=E:\workspace\WFDShare\bin\x86\Debug\WFDShare_1.0.1.0_x86_Debug.msix
+SymbolPackage=E:\workspace\WFDShare\obj\x86\Debug\Symbols\WFDShare_1.0.1.0_x86_Debug.appxsym
